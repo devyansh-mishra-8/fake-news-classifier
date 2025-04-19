@@ -18,7 +18,7 @@ The **Fake News Classifier** is a complete end-to-end tool designed to classify 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fake-news-classifier.git
+   git clone https://github.com/devyansh-mishra-8/fake-news-classifier.git
    ```
 
 2. **Navigate to the project directory:**
